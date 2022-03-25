@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "baseUrl": "./",
+      "outDir": "./dist_migrate",
+      "module": "commonjs",
+      "target": "es2017"
+    },
+    "exclude": ["node_modules", "dist_migrate"]
+  }
+  
